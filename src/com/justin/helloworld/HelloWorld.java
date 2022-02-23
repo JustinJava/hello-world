@@ -1,7 +1,7 @@
 package com.justin.helloworld;
 
 /**
- * @author kingdee
+ * @author justinqin
  * @date 2022/2/23
  */
 public class HelloWorld {
